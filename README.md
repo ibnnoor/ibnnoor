@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibnnoor
 - 👀 I’m interested in cloud engineering and devops
 - 🌱 I’m currently learning to become one at Alt school Africa 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cloud computing and devOps related projects
 - 📫 How to reach me on twitter @ibn_noor_
 
 <!---
